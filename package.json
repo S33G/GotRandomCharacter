@@ -1,0 +1,12 @@
+{
+  "name": "got-random-name",
+  "version": "1.0.0",
+  "description": "A simple tool for generating project names based on Game of Thrones Characters",
+  "main": "index.js",
+  "author": "Charlie Jennings",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
