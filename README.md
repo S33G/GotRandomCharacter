@@ -18,3 +18,4 @@ https://api.got.show/doc/
 
 ### Ports
 - Go Lang https://github.com/yarlson/GotRandomCharacter
+- Swift https://github.com/adamwaite/GotRandomCharacter
